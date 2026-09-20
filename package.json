@@ -1,0 +1,26 @@
+{
+  "name": "karuta-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm run build && wrangler dev --ip 127.0.0.1 --port 8787",
+    "build": "tsc --noEmit && vite build",
+    "preview": "wrangler dev --ip 127.0.0.1 --port 8787",
+    "deploy": "npm run build && wrangler deploy",
+    "assets": "python scripts/prepare_assets.py"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "pinyin-pro": "^3.29.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20260915.1",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5",
+    "wrangler": "^4.0.0"
+  }
+}

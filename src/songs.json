@@ -1,0 +1,542 @@
+[
+  {
+    "id": 5,
+    "character": "长崎素世",
+    "title": "春日影",
+    "work": "BanG Dream! It's MyGO!!!!!",
+    "kind": "s1插曲",
+    "cover": "/covers/5.webp?v=09f64c1d2e2b",
+    "audio": "/audio/5.mp3"
+  },
+  {
+    "id": 10,
+    "character": "朝田诗乃",
+    "title": "IGNITE",
+    "work": "刀剑神域",
+    "kind": "s2 op1",
+    "cover": "/covers/10.webp?v=d80ec5cec6b9",
+    "audio": "/audio/10.mp3"
+  },
+  {
+    "id": 16,
+    "character": "龙宫礼奈",
+    "title": "you",
+    "work": "寒蝉鸣泣之时",
+    "kind": "同人曲",
+    "cover": "/covers/16.webp?v=01f85b0f6ac9",
+    "audio": "/audio/16.mp3"
+  },
+  {
+    "id": 25,
+    "character": "神尾观铃",
+    "title": "鳥の詩",
+    "work": "AIR",
+    "kind": "OP",
+    "cover": "/covers/25.webp?v=552eee624ee0",
+    "audio": "/audio/25.mp3"
+  },
+  {
+    "id": 26,
+    "character": "古河渚",
+    "title": "時を刻む唄",
+    "work": "CLANNAD after story",
+    "kind": "OP",
+    "cover": "/covers/26.webp?v=76d5e7dc158e",
+    "audio": "/audio/26.mp3"
+  },
+  {
+    "id": 28,
+    "character": "牧濑红莉栖",
+    "title": "Hacking to the Gate",
+    "work": "命运石之门",
+    "kind": "OP",
+    "cover": "/covers/28.webp?v=d38e871d0438",
+    "audio": "/audio/28.mp3"
+  },
+  {
+    "id": 29,
+    "character": "星野爱",
+    "title": "アイドル",
+    "work": "我推的孩子",
+    "kind": "s1OP",
+    "cover": "/covers/29.webp?v=d20c36cfe4b2",
+    "audio": "/audio/29.mp3"
+  },
+  {
+    "id": 30,
+    "character": "高坂桐乃",
+    "title": "irony",
+    "work": "我的妹妹不可能这么可爱",
+    "kind": "s1OP",
+    "cover": "/covers/30.webp?v=77c75410c611",
+    "audio": "/audio/30.mp3"
+  },
+  {
+    "id": 32,
+    "character": "锦木千束&井之上泷奈",
+    "title": "花の塔",
+    "work": "莉可莉丝",
+    "kind": "ED",
+    "cover": "/covers/32.webp?v=e9a589cf37ca",
+    "audio": "/audio/32.mp3"
+  },
+  {
+    "id": 34,
+    "character": "艾伦",
+    "title": "悪魔の子",
+    "work": "进击的巨人",
+    "kind": "最终季part2 ED",
+    "cover": "/covers/34.webp?v=48730b9f1026",
+    "audio": "/audio/34.mp3"
+  },
+  {
+    "id": 35,
+    "character": "芙莉莲",
+    "title": "anytime anywhere",
+    "work": "葬送的芙莉莲",
+    "kind": "ED",
+    "cover": "/covers/35.webp?v=4be4d1409700",
+    "audio": "/audio/35.mp3"
+  },
+  {
+    "id": 39,
+    "character": "樱满集",
+    "title": "βίος",
+    "work": "罪恶王冠",
+    "kind": "插曲",
+    "cover": "/covers/39.webp?v=afc820592e0d",
+    "audio": "/audio/39.mp3"
+  },
+  {
+    "id": 43,
+    "character": "爱德华&阿尔冯斯",
+    "title": "again",
+    "work": "钢之炼金术师 FA",
+    "kind": "OP1",
+    "cover": "/covers/43.webp?v=268ebdd3c08c",
+    "audio": "/audio/43.mp3"
+  },
+  {
+    "id": 46,
+    "character": "阪本先生&博士&东云名乃",
+    "title": "ヒャダインのカカカタ☆カタオモイ-C",
+    "work": "日常",
+    "kind": "OP",
+    "cover": "/covers/46.webp?v=fa1be35de587",
+    "audio": "/audio/46.mp3"
+  },
+  {
+    "id": 47,
+    "character": "本间芽衣子",
+    "title": "secret base～ 君がくれたもの",
+    "work": "未闻花名",
+    "kind": "ED",
+    "cover": "/covers/47.webp?v=49f6d13027a1",
+    "audio": "/audio/47.mp3"
+  },
+  {
+    "id": 50,
+    "character": "凉宫春日",
+    "title": "God knows...",
+    "work": "凉宫春日的忧郁",
+    "kind": "插曲",
+    "cover": "/covers/50.webp?v=5987b5f48b52",
+    "audio": "/audio/50.mp3"
+  },
+  {
+    "id": 53,
+    "character": "木之本樱",
+    "title": "Catch you catch me",
+    "work": "魔卡少女樱",
+    "kind": "OP1",
+    "cover": "/covers/53.webp?v=084d46d43898",
+    "audio": "/audio/53.mp3"
+  },
+  {
+    "id": 54,
+    "character": "逢坂大河",
+    "title": "オレンジ",
+    "work": "龙与虎",
+    "kind": "ED2",
+    "cover": "/covers/54.webp?v=7653bc8736ef",
+    "audio": "/audio/54.mp3"
+  },
+  {
+    "id": 55,
+    "character": "平泽唯&秋山澪&田中律&琴吹紬&中野梓",
+    "title": "ふわふわ時間",
+    "work": "轻音少女",
+    "kind": "插曲",
+    "cover": "/covers/55.webp?v=328cee7ebe5e",
+    "audio": "/audio/55.mp3"
+  },
+  {
+    "id": 57,
+    "character": "初号机",
+    "title": "残酷な天使のテーゼ",
+    "work": "新世纪福音战士",
+    "kind": "OP",
+    "cover": "/covers/57.webp?v=d89c2028cab0",
+    "audio": "/audio/57.mp3"
+  },
+  {
+    "id": 58,
+    "character": "奥尔加&三日月",
+    "title": "フリージア",
+    "work": "机动战士高达：铁血的奥尔芬斯",
+    "kind": "ed",
+    "cover": "/covers/58.webp?v=61fd3c798524",
+    "audio": "/audio/58.mp3"
+  },
+  {
+    "id": 60,
+    "character": "有马公生&宫园薰",
+    "title": "光るなら",
+    "work": "四月是你的谎言",
+    "kind": "op1",
+    "cover": "/covers/60.webp?v=50214140a6db",
+    "audio": "/audio/60.mp3"
+  },
+  {
+    "id": 64,
+    "character": "露西",
+    "title": "I really want to stay at your house",
+    "work": "赛博朋克2077：边缘行者",
+    "kind": "第10插曲",
+    "cover": "/covers/64.webp?v=6b65ae0f4a63",
+    "audio": "/audio/64.mp3"
+  },
+  {
+    "id": 66,
+    "character": "坂田银时",
+    "title": "サムライハート",
+    "work": "银魂",
+    "kind": "OP",
+    "cover": "/covers/66.webp?v=a1846a3ba062",
+    "audio": "/audio/66.mp3"
+  },
+  {
+    "id": 67,
+    "character": "夏目贵志",
+    "title": "夏夕空",
+    "work": "夏目友人帐",
+    "kind": "s1ED",
+    "cover": "/covers/67.webp?v=b592c6973890",
+    "audio": "/audio/67.mp3"
+  },
+  {
+    "id": 69,
+    "character": "佐仓千代",
+    "title": "君じゃなきゃダメみたい",
+    "work": "月刊少女野崎君",
+    "kind": "OP",
+    "cover": "/covers/69.webp?v=337ae142b2cb",
+    "audio": "/audio/69.mp3"
+  },
+  {
+    "id": 70,
+    "character": "奈亚子",
+    "title": "太陽曰く燃えよカオス",
+    "work": "潜行吧奈亚子",
+    "kind": "s1OP",
+    "cover": "/covers/70.webp?v=24db2c73f23f",
+    "audio": "/audio/70.mp3"
+  },
+  {
+    "id": 74,
+    "character": "哈萨维",
+    "title": "閃光",
+    "work": "机动战士高达：闪光的哈萨维",
+    "kind": "主题曲",
+    "cover": "/covers/74.webp?v=6eb62d182c2f",
+    "audio": "/audio/74.mp3"
+  },
+  {
+    "id": 80,
+    "character": "电次",
+    "title": "KICK BACK",
+    "work": "电锯人",
+    "kind": "op",
+    "cover": "/covers/80.webp?v=508afc1e646d",
+    "audio": "/audio/80.mp3"
+  },
+  {
+    "id": 81,
+    "character": "御坂美琴",
+    "title": "ONLY MY RAILGUN",
+    "work": "某科学的超电磁炮",
+    "kind": "S1OP",
+    "cover": "/covers/81.webp?v=86c8eabc85df",
+    "audio": "/audio/81.mp3"
+  },
+  {
+    "id": 82,
+    "character": "孙悟空（卡卡罗特）",
+    "title": "CHA-LA HEAD CHA-LA",
+    "work": "龙珠Z",
+    "kind": "op",
+    "cover": "/covers/82.webp?v=066e3bf52772",
+    "audio": "/audio/82.mp3"
+  },
+  {
+    "id": 85,
+    "character": "巴鲁&希达",
+    "title": "君をのせて",
+    "work": "天空之城",
+    "kind": "ed",
+    "cover": "/covers/85.webp?v=f7a2a7150f25",
+    "audio": "/audio/85.mp3"
+  },
+  {
+    "id": 86,
+    "character": "诸葛孔明&月见英子",
+    "title": "チキチキバンバン",
+    "work": "派对咖孔明",
+    "kind": "op",
+    "cover": "/covers/86.webp?v=f92343738bd0",
+    "audio": "/audio/86.mp3"
+  },
+  {
+    "id": 88,
+    "character": "鲁鲁修V布里塔尼亚",
+    "title": "COLORS",
+    "work": "反叛的鲁鲁修",
+    "kind": "s1OP1",
+    "cover": "/covers/88.webp?v=cf06c6602ba2",
+    "audio": "/audio/88.mp3"
+  },
+  {
+    "id": 94,
+    "character": "炭治郎&祢豆子",
+    "title": "红莲华",
+    "work": "鬼灭之刃",
+    "kind": "s1op",
+    "cover": "/covers/94.webp?v=281c472ae05f",
+    "audio": "/audio/94.mp3"
+  },
+  {
+    "id": 97,
+    "character": "远坂凛",
+    "title": "brave shine",
+    "work": "Fate/stay night [Unlimited Blade Works]",
+    "kind": "s1op",
+    "cover": "/covers/97.webp?v=500327d6b36a",
+    "audio": "/audio/97.mp3"
+  },
+  {
+    "id": 101,
+    "character": "雷格西",
+    "title": "怪物",
+    "work": "BEASTARS",
+    "kind": "s2op",
+    "cover": "/covers/101.webp?v=65aa3d09ba8b",
+    "audio": "/audio/101.mp3"
+  },
+  {
+    "id": 102,
+    "character": "结束乐队",
+    "title": "吉他与孤独与蓝色星球",
+    "work": "孤独摇滚",
+    "kind": "插曲",
+    "cover": "/covers/102.webp?v=0b7b1f333092",
+    "audio": "/audio/102.mp3"
+  },
+  {
+    "id": 106,
+    "character": "斯莱塔·墨丘利",
+    "title": "祝福",
+    "work": "机动战士高达 水星的魔女",
+    "kind": "op1",
+    "cover": "/covers/106.webp?v=cd37b41c1f9d",
+    "audio": "/audio/106.mp3"
+  },
+  {
+    "id": 111,
+    "character": "狡啮慎也&槙岛圣护",
+    "title": "名前のない怪物",
+    "work": "心理测量者",
+    "kind": "s1ed",
+    "cover": "/covers/111.webp?v=3d6dbb1b6ecb",
+    "audio": "/audio/111.mp3"
+  },
+  {
+    "id": 113,
+    "character": "「　」",
+    "title": "This game",
+    "work": "游戏人生",
+    "kind": "op",
+    "cover": "/covers/113.webp?v=df8b637e407f",
+    "audio": "/audio/113.mp3"
+  },
+  {
+    "id": 114,
+    "character": "立花泷&宫水三叶",
+    "title": "前前前世",
+    "work": "你的名字",
+    "kind": "主题曲",
+    "cover": "/covers/114.webp?v=eaff69b3f8d6",
+    "audio": "/audio/114.mp3"
+  },
+  {
+    "id": 115,
+    "character": "八神太一＆亚古兽",
+    "title": "Butter-fly",
+    "work": "数码宝贝",
+    "kind": "op",
+    "cover": "/covers/115.webp?v=8cc835792bb9",
+    "audio": "/audio/115.mp3"
+  },
+  {
+    "id": 117,
+    "character": "白银御行&四宫辉夜",
+    "title": "ラブ・ドラマティック",
+    "work": "辉夜大小姐想让我告白",
+    "kind": "op1",
+    "cover": "/covers/117.webp?v=26681e75dad1",
+    "audio": "/audio/117.mp3"
+  },
+  {
+    "id": 123,
+    "character": "莱昂纳多·沃奇（雷欧）等莱布拉成员",
+    "title": "シュガーソングとビターステップ",
+    "work": "血界战线",
+    "kind": "ed1",
+    "cover": "/covers/123.webp?v=056de5380cdd",
+    "audio": "/audio/123.mp3"
+  },
+  {
+    "id": 129,
+    "character": "立华奏",
+    "title": "My Soul, Your Beats!",
+    "work": "Angel Beats!",
+    "kind": "op",
+    "cover": "/covers/129.webp?v=69a3355f3a96",
+    "audio": "/audio/129.mp3"
+  },
+  {
+    "id": 133,
+    "character": "圆焰沙杏麻",
+    "title": "コネクト",
+    "work": "魔法少女小圆",
+    "kind": "op",
+    "cover": "/covers/133.webp?v=de68843b612e",
+    "audio": "/audio/133.mp3"
+  },
+  {
+    "id": 134,
+    "character": "阿良良木月火",
+    "title": "白金disco",
+    "work": "伪物语",
+    "kind": "ed",
+    "cover": "/covers/134.webp?v=a6040ad41ad8",
+    "audio": "/audio/134.mp3"
+  },
+  {
+    "id": 136,
+    "character": "土间埋",
+    "title": "かくしん的☆めたまるふぉ～ぜっ!",
+    "work": "干物妹小埋",
+    "kind": "op",
+    "cover": "/covers/136.webp?v=c5ecb804f286",
+    "audio": "/audio/136.mp3"
+  },
+  {
+    "id": 142,
+    "character": "薇尔莉特",
+    "title": "Sincerely",
+    "work": "紫罗兰永恒花园",
+    "kind": "ed1",
+    "cover": "/covers/142.webp?v=2628aad5f3d9",
+    "audio": "/audio/142.mp3"
+  },
+  {
+    "id": 151,
+    "character": "柯南",
+    "title": "转动命运之轮",
+    "work": "名侦探柯南",
+    "kind": "op",
+    "cover": "/covers/151.webp?v=8b6e97347b8b",
+    "audio": "/audio/151.mp3"
+  },
+  {
+    "id": 156,
+    "character": "夜夜",
+    "title": "回转吧雪月花",
+    "work": "机巧少女不会受伤",
+    "kind": "ed",
+    "cover": "/covers/156.webp?v=9f6c11e88562",
+    "audio": "/audio/156.mp3"
+  },
+  {
+    "id": 206,
+    "character": "战场原黑仪",
+    "title": "君の知らない物語",
+    "work": "化物语",
+    "kind": "ED",
+    "cover": "/covers/206.webp?v=e0e905c2b510",
+    "audio": "/audio/206.mp3"
+  },
+  {
+    "id": 209,
+    "character": "界冢伊奈帆&斯雷因·特洛伊亚德",
+    "title": "aLIEz",
+    "work": "ALDNOAH.ZERO",
+    "kind": "ED2",
+    "cover": "/covers/209.webp?v=a95426216eec",
+    "audio": "/audio/209.mp3"
+  },
+  {
+    "id": 210,
+    "character": "及川奈砂",
+    "title": "打上花火",
+    "work": "烟花",
+    "kind": "ED",
+    "cover": "/covers/210.webp?v=2d9d67d2a831",
+    "audio": "/audio/210.mp3"
+  },
+  {
+    "id": 224,
+    "character": "岩户铃芽or椅子",
+    "title": "すずめ",
+    "work": "铃芽之旅",
+    "kind": "OP",
+    "cover": "/covers/224.webp?v=370d7c9f4d4d",
+    "audio": "/audio/224.mp3"
+  },
+  {
+    "id": 271,
+    "character": "草帽一行人",
+    "title": "We are！",
+    "work": "海贼王",
+    "kind": "op1",
+    "cover": "/covers/271.webp?v=93eed9c51934",
+    "audio": "/audio/271.mp3"
+  },
+  {
+    "id": 272,
+    "character": "漩涡鸣人&宇智波佐助",
+    "title": "ブルーバード",
+    "work": "火影忍者 疾风传",
+    "kind": "op3",
+    "cover": "/covers/272.webp?v=6cf55ae3233d",
+    "audio": "/audio/272.mp3"
+  },
+  {
+    "id": 273,
+    "character": "樱木花道&流川枫",
+    "title": "世界が終わるまでは",
+    "work": "灌篮高手",
+    "kind": "op1",
+    "cover": "/covers/273.webp?v=86ceeabe35ea",
+    "audio": "/audio/273.mp3"
+  },
+  {
+    "id": 282,
+    "character": "福杰一家",
+    "title": "ミックスナッツ",
+    "work": "间谍过家家",
+    "kind": "s1OP1",
+    "cover": "/covers/282.webp?v=add715b913cd",
+    "audio": "/audio/282.mp3"
+  }
+]

@@ -1,0 +1,25 @@
+node_modules/
+dist/
+.wrangler/
+output/
+*.log
+.playwright-cli/
+
+# Local credentials and editor files
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+*.pem
+*.key
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+__pycache__/
+*.pyc
+
+# Original media; processed game assets live in public/
+img/
+music/
